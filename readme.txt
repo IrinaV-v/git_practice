@@ -1,1 +1,1 @@
-Git project for EPAM
+Git project for EPAM.
